@@ -49,3 +49,6 @@ li a:hover {
   background-color: #dddddd;
 }
 
+img {
+    image-orientation: from-image;
+}
